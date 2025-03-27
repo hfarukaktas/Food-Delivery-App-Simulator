@@ -1,2 +1,16 @@
-# Food Delivery App Simulator
- This Flutter app simulates an online food delivery app with using pre-prepared web services from Kasim Adalan. This was a graduatation project to my online Udemy course. 
+# yemeksepeti
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
